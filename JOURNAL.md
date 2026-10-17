@@ -63,7 +63,6 @@
 -Still don't know how to raise the obejcts
 -Learned how to put stuff in folders without the models breaking (for organization)
 -Attempted to make the plinko board
--Stop to eat lunch
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/faGqWIhWIB38xFXLRpQI0BHBbHDOTMUN/df053a9834a989ca5e8677453da436d53c1bfe43a7a5bbe6dddef8e1f3e1c2aa.png)
 (Back and forth)
