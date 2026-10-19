@@ -1,5 +1,6 @@
 # Half-Life---Week-2-CAD# Half-Life---Week-2-CAD
 I have never used a computer design software before other than TinkerCAD, am I cooked?
+https://cad.onshape.com/documents/7ee986fa81c53bda9b55cdc8/w/b5813361f7523ec0cc04dcbc/e/e04b6cfabe904811f84de525?renderMode=0&uiState=6ad58af51d22277cb619b60f
 <img width="402" height="520" alt="Screenshot 2026-10-17 002952" src="https://github.com/user-attachments/assets/be2c8241-4139-406b-8e47-6c5b967f03d3" />
 <img width="710" height="456" alt="Screenshot 2026-10-16 235615" src="https://github.com/user-attachments/assets/7ac838aa-4f88-4700-b211-9fc222e7d8d0" />
 <img width="417" height="347" alt="Screenshot 2026-10-17 153541" src="https://github.com/user-attachments/assets/7b058319-8b7f-4358-a6a4-01a1c8d6be69" />
@@ -14,3 +15,8 @@ I have never used a computer design software before other than TinkerCAD, am I c
 <img width="628" height="407" alt="Screenshot 2026-10-17 220853" src="https://github.com/user-attachments/assets/5a393b55-bc9f-49c1-b8b6-8918d8bbfa1a" />
 <img width="228" height="462" alt="Screenshot 2026-10-17 213633" src="https://github.com/user-attachments/assets/c61dbbf9-416b-4a82-83a2-c55cdb1082dc" />
 <img width="255" height="463" alt="Screenshot 2026-10-17 210655" src="https://github.com/user-attachments/assets/d352f9ed-6025-4c5a-afde-18b068544e40" />
+<img width="302" height="688" alt="Screenshot 2026-10-18 183817" src="https://github.com/user-attachments/assets/f0dc4964-3354-4f86-979c-0cfbbc5ee551" />
+<img width="361" height="651" alt="Screenshot 2026-10-18 183753" src="https://github.com/user-attachments/assets/d72968ba-c22e-4228-b30e-2bb373b98813" />
+<img width="578" height="548" alt="Screenshot 2026-10-18 165416" src="https://github.com/user-attachments/assets/9bd3b78c-52ac-4f58-bc34-eaf61867e67a" />
+<img width="227" height="570" alt="Screenshot 2026-10-18 165231" src="https://github.com/user-attachments/assets/f3b8ad1c-e0ec-4e8b-b0a8-9e45d30bafdb" />
+<img width="662" height="723" alt="Screenshot 2026-10-18 201025" src="https://github.com/user-attachments/assets/9e34276e-fa65-4dc3-aee0-b3172d23e84e" />
