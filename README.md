@@ -19,4 +19,4 @@ https://cad.onshape.com/documents/7ee986fa81c53bda9b55cdc8/w/b5813361f7523ec0cc0
 <img width="361" height="651" alt="Screenshot 2026-10-18 183753" src="https://github.com/user-attachments/assets/d72968ba-c22e-4228-b30e-2bb373b98813" />
 <img width="578" height="548" alt="Screenshot 2026-10-18 165416" src="https://github.com/user-attachments/assets/9bd3b78c-52ac-4f58-bc34-eaf61867e67a" />
 <img width="227" height="570" alt="Screenshot 2026-10-18 165231" src="https://github.com/user-attachments/assets/f3b8ad1c-e0ec-4e8b-b0a8-9e45d30bafdb" />
-<img width="662" height="723" alt="Screenshot 2026-10-18 201025" src="https://github.com/user-attachments/assets/9e34276e-fa65-4dc3-aee0-b3172d23e84e" />
+<img width="513" height="712" alt="image" src="https://github.com/user-attachments/assets/80a08c4f-0f3a-499d-befa-f79a6a43948d" />
