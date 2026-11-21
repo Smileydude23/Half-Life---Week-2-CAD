@@ -1,6 +1,21 @@
 # Half-Life---Week-2-CAD# Half-Life---Week-2-CAD
-I have never used a computer design software before other than TinkerCAD, am I cooked?
+I have never used a computer design software before other than TinkerCAD, am I cooked? I created this marble run with multiple components: It includes a funnel, basic tunnels, a helix loop, an archimedes screw, a set of stairs, a plinko board, and a sweeping side to side board ending in a container at the bottom. This model comes with five seperate balls. I have changed my BOM in the README to be more accurate as before I didn't have a printing legion quote and the BOM just had a placeholder item. Now that I have the quote, the graph listed below should be the total cost.
+
+Onshape Link:
 https://cad.onshape.com/documents/7ee986fa81c53bda9b55cdc8/w/b5813361f7523ec0cc04dcbc/e/e04b6cfabe904811f84de525?renderMode=0&uiState=6ad58af51d22277cb619b60f
+
+BOM chart:  
+
+| Item | Qty | Supplier | Cost per Item | Total Cost | Printing Legion Quote |
+|:-----|----:|:---------|--------------:|------------:|:--------|
+| Printing Legion Print (via @arnav) | 1 | Printing Legion | $22.00 | $22.00 | <img width="717" height="101" alt="Receipt" src="https://github.com/user-attachments/assets/f7bde737-2059-4796-a0b0-9f821fe7113a" /> |
+| Estimated Total Shipping | 1 | — | — | $6.00 | — |
+| **Grand Total** | — | — | — | **$28.00** | — |
+
+(This is in CAD, the total is around $20.30 USD)
+ 
+ --------
+ 
 <img width="402" height="520" alt="Screenshot 2026-10-17 002952" src="https://github.com/user-attachments/assets/be2c8241-4139-406b-8e47-6c5b967f03d3" />
 <img width="710" height="456" alt="Screenshot 2026-10-16 235615" src="https://github.com/user-attachments/assets/7ac838aa-4f88-4700-b211-9fc222e7d8d0" />
 <img width="417" height="347" alt="Screenshot 2026-10-17 153541" src="https://github.com/user-attachments/assets/7b058319-8b7f-4358-a6a4-01a1c8d6be69" />
@@ -20,3 +35,5 @@ https://cad.onshape.com/documents/7ee986fa81c53bda9b55cdc8/w/b5813361f7523ec0cc0
 <img width="578" height="548" alt="Screenshot 2026-10-18 165416" src="https://github.com/user-attachments/assets/9bd3b78c-52ac-4f58-bc34-eaf61867e67a" />
 <img width="227" height="570" alt="Screenshot 2026-10-18 165231" src="https://github.com/user-attachments/assets/f3b8ad1c-e0ec-4e8b-b0a8-9e45d30bafdb" />
 <img width="513" height="712" alt="image" src="https://github.com/user-attachments/assets/80a08c4f-0f3a-499d-befa-f79a6a43948d" />
+<img width="695" height="650" alt="image" src="https://github.com/user-attachments/assets/7c29b05a-bfe6-44bc-a45d-c7b1f7d8b45d" />
+
